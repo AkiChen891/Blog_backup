@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Latex环境测试</title>
+    <link href="/2022/10/29/Latex%E7%8E%AF%E5%A2%83%E6%B5%8B%E8%AF%95/"/>
+    <url>/2022/10/29/Latex%E7%8E%AF%E5%A2%83%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<script type="math/tex; mode=display">\begin{equation}    Z_{1-4}=    \begin{bmatrix}-0.4568     &    0.2178     &    -0.0264     &    -0.0771     \\-0.1886     &    0.2756     &    -0.0908     &    0.5277     \\-0.1557     &    -0.1320     &    0.3542     &    -0.1271     \\\dots     &    \dots      &    \dots      &    \dots      \\0.2731     &    -0.1462     &    -0.0617     &    0.5429     \\-0.1724     &    -0.1864     &    0.3537     &    0.1313     \\0.2848     &    0.0925     &    0.4072     &    -0.0236     \\    \end{bmatrix}\end{equation}</script>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>TEST</title>
+    <link href="/2022/10/28/TEST/"/>
+    <url>/2022/10/28/TEST/</url>
+    
+    <content type="html"><![CDATA[<h1 id="This-is-a-test-page-of-Aki’s-new-blog"><a href="#This-is-a-test-page-of-Aki’s-new-blog" class="headerlink" title="This is a test page of Aki’s new blog"></a>This is a test page of Aki’s new blog</h1><h3 id="Hello-world"><a href="#Hello-world" class="headerlink" title="Hello world!"></a>Hello world!</h3><p><em>This website is still under constructing</em></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
